@@ -1,0 +1,16 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "searches the article name in wikipedia and if found writes the link in file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "progress": "^2.0.3"
+  }
+}
