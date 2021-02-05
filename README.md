@@ -1,7 +1,8 @@
 # Wiki
 
-javascript
+# Run javascript
 ```
+npm install
 node index.js search_term file_name
 ```
 python CLI
